@@ -43,7 +43,6 @@ HOOK_DEFINE_INLINE(InlineHook0) {
 		ctx -> X[22] = (uint64_t)new_local_1248;
 		ctx -> X[26] = (uint64_t)new_local_a48;
 		*/
-		ctx -> W[17] = 0x14;
 	}
 };
 
